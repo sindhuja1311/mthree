@@ -1,5 +1,3 @@
-I'll provide a clearer explanation of React concepts while keeping the same structure and technical content:
-
 # React
 
 ## What is React?
