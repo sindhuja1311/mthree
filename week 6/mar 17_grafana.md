@@ -1,5 +1,5 @@
 
-GRAFANA
+# GRAFANA
 
 ## Toil:
 In the context of Site Reliability Engineering (SRE), toil encompasses all operational tasks that share these key characteristics:
